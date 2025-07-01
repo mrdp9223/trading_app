@@ -4,3 +4,4 @@ ta
 kiteconnect
 pytz
 numpy
+PyPDF2
